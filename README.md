@@ -1,5 +1,4 @@
 # Prework Study Guide Webpage
-Bootcamp Prework Study Guide for Students
 
 ## Description
 
